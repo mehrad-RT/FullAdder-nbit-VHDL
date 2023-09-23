@@ -1,0 +1,10 @@
+Command line:
+   fulladdercomp_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  41885
+
+Wed Jun  7 09:56:50 2023
+
+
+ Elaboration Time: 0.03 sec
